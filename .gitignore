@@ -1,0 +1,5 @@
+*.onnx
+/fauna-rag/*.yaml
+/env/
+/ai-survival-guide-frontend/node_modules/
+/fauna-rag/llm-venv
