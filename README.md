@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/4c19f18b-2543-41f4-9c07-f1fe69db06c1)# Edge AI Research Guide
+# Edge AI Research Guide
+![image](https://github.com/user-attachments/assets/4c19f18b-2543-41f4-9c07-f1fe69db06c1)
 
 ## Description
 This is a research tool aimed at reseachers going on field work in areas with very limited or absent internet access. The user can capture or upload an image and get it identified as the correct flora and fauna and receive an overview of it. Further they can continue chatting with the tool about the observed species. The user can also set up a live video feed which can be  monitored by the tool for any endangered species. 
